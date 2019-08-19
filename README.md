@@ -1,4 +1,4 @@
-# EventCalendar
+# EventCalendar program created with Java
 
 This is a program that allows the user to keep upcoming events organized with a GUI.
 
